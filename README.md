@@ -1,4 +1,4 @@
-Pasos a seguir en la pràctica Git, Github i Jo:
+Pasos a seguir en la pràctica Git, Github i Jo
 
 Creació del Repositori a GitHub:
 - Inicia sessió al teu compte de GitHub.
